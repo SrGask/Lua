@@ -1,0 +1,3 @@
+--[[ MAKE SURE TO ONLY COPY THE LOADSTRING ]]--
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SpaceYes/Lua/Main/DaHood.Lua", true))();
